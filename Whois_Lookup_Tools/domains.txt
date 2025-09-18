@@ -1,0 +1,6 @@
+google.com 
+openai.com 
+yahoo.com
+nic.uk
+apple.com
+vietnamairlines.com
